@@ -129,7 +129,7 @@ Gained insights into CKD patterns through SQL-driven research.
 ---
 
 👤 Author
-Losheni Meenakshi Sundaram
-Student, University Of London , Singapore Institute of Management
+- Losheni Meenakshi Sundaram
+- Student, University Of London , Singapore Institute of Management
 📫 Email: losheni.ms@gmail.com
 
